@@ -1,5 +1,5 @@
 Open Source Software used in **Parrot BlueGrass**.  
-Firmware version: **4.6.0**  
+Firmware version: **4.6.1**  
 Unless stated otherwise, later versions of the firmware
 use these same software modules.
 
